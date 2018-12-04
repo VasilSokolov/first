@@ -1,23 +1,11 @@
+<<<<<<< HEAD
 lll
 l
 l
-l
-l
-lhh
-h
-h
-hh
-h
-h
-h
-h
-h
-hh
-h
-h
-hh
-hh
-h
-h
-h
-h
+222222
+22
+2
+2
+=======
+Only one
+>>>>>>> 974b93e... added Vasil's file
