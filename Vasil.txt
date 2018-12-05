@@ -1,9 +1,11 @@
-j
-jj
-j
-j
-j
-j
-t
-t
-t
+<<<<<<< HEAD
+lll
+l
+l
+222222
+22
+2
+2
+=======
+Only one
+>>>>>>> 974b93e... added Vasil's file
