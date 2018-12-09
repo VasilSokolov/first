@@ -6,6 +6,10 @@ k
 k
 k
 kk
-k
-k
-k
+public void {
+	aasddsad
+}
+а
+сд
+ас
+д
